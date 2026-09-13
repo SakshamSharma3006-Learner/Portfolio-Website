@@ -1,81 +1,125 @@
 <div align="center">
 
-# 🌐 Personal Portfolio Website
+# 🌐 PERSONAL • PORTFOLIO • WEBSITE
 
-### 💻 My Personal Developer Portfolio
+### A Modern & Interactive Developer Portfolio
 
 <p>
-  A modern, responsive and interactive portfolio website<br>
-  built to showcase my skills, projects, achievements and journey.
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/github/stars/SakshamSharma3006-Learner/Portfolio-Website?style=for-the-badge&logo=github"/>
+</p>
+
+<p>
+  <a href="https://sakshamsharma3006-learner.github.io/Portfolio-Website/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-FF6B00?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/SakshamSharma3006-Learner/Portfolio-Website" target="_blank">
+    <img src="https://img.shields.io/badge/⭐%20STAR%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 </div>
 
 ---
 
-## 🚀 Features
+## 🧩 About The Project
 
-<div align="center">
+**Personal Portfolio Website** is a modern, responsive and interactive
+developer portfolio created using **HTML5, CSS3 and JavaScript**.
 
-| 🏠 Home | 👨‍💻 About | 🛠️ Skills |
-|:---:|:---:|:---:|
-| Personal Introduction | About Me | Technical Skills |
+The website is designed to showcase my **skills, education, projects,
+achievements and development journey** in a professional and engaging way.
 
-| 🎓 Education | 💼 Projects | 🏆 Achievements |
-|:---:|:---:|:---:|
-| Academic Journey | Featured Projects | Certificates |
+> 🎯 **Goal:** Build a professional online presence while strengthening
+> real-world front-end development and UI design skills.
 
-| 📩 Contact | 📱 Responsive | ⚡ Interactive |
-|:---:|:---:|:---:|
-| Get In Touch | All Devices | Smooth Effects |
+---
 
-</div>
+## ✨ Key Features
+
+| Feature | Description |
+|---|---|
+| 🏠 **Home Section** | Introduces the developer and portfolio |
+| 👨‍💻 **About Section** | Provides personal and professional information |
+| 🛠️ **Skills Section** | Showcases technical skills and technologies |
+| 🎓 **Education Section** | Displays academic background |
+| 💼 **Projects Section** | Highlights developed projects |
+| 🏆 **Achievements Section** | Showcases certificates and accomplishments |
+| 📩 **Contact Section** | Provides ways to get in touch |
+| 📱 **Responsive Design** | Works across different screen sizes |
+| 🎨 **Modern UI** | Clean and professional interface |
+| ⚡ **Interactive Effects** | Smooth animations and dynamic interactions |
+
+---
+
+## 🌐 Portfolio Sections
+
+### 🏠 Home
+
+A professional landing section introducing me as a **BCA student and
+aspiring web developer**.
+
+### 👨‍💻 About Me
+
+Provides information about my background, interests and journey in
+web development.
+
+### 🛠️ Skills
+
+Showcases my technical knowledge and development skills.
+
+### 🎓 Education
+
+Displays my academic journey and educational background.
+
+### 💼 Projects
+
+A collection of my front-end development projects and practical work.
+
+### 🏆 Achievements
+
+Displays certificates, accomplishments and other milestones.
+
+### 📩 Contact
+
+Allows visitors, recruiters and companies to connect with me.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
+<p align="left">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
-</div>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-## 🎯 Purpose
-
-> This portfolio represents my **development journey, technical skills,
-> projects and achievements** while building my career in web development.
+</p>
 
 ---
 
-## 🌐 Website
+## 🧠 How It Works
 
-<div align="center">
-
-### 🚀 [Visit My Portfolio](YOUR_LIVE_LINK_HERE)
-
-</div>
-
----
-
-## 👨‍💻 Developer
-
-<div align="center">
-
-### **Saksham Sharma**
-
-🎓 BCA Student • 💻 Aspiring Web Developer • 🌐 Front-End Development
-
-</div>
-
----
-
-<div align="center">
-
-⭐ **If you like this project, don't forget to star the repository!** ⭐
-
-</div>
+```text
+User Visits Portfolio
+        ↓
+      Home
+        ↓
+    About Me
+        ↓
+      Skills
+        ↓
+    Education
+        ↓
+     Projects
+        ↓
+   Achievements
+        ↓
+     Contact
+        ↓
+   Connect With Me
